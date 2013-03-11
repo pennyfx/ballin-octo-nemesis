@@ -2,7 +2,7 @@
 	"name":"talib-test",
 	"version": "0.1.0",
 	"dependencies":{
-		"btctrader": "0.0.1",
+		"btctrader": "git://github.com/bitfloor/trader.nodejs.git",
 		"talib": "0.2.7"
 	}
 }

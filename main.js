@@ -49,3 +49,6 @@ function doCalc(){
 }
 
 console.log(talib.explain("LINEARREG").inputs)
+console.log(talib.explain("ADX").inputs)
+
+console.log(talib.functions);
