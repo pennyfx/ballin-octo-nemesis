@@ -1,0 +1,8 @@
+{
+	"name":"talib-test",
+	"version": "0.1.0",
+	"dependencies":{
+		"btctrader": "0.0.1",
+		"talib": "0.2.7"
+	}
+}
